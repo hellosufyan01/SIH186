@@ -1,6 +1,6 @@
 # 🛡️ Sentinel — AI-Based Personnel Stress & Welfare Monitoring System
 
-**Smart India Hackathon 2024 | Problem Statement 26186**
+**Smart India Hackathon 2026 | Problem Statement 26186**
 
 A privacy-first, AI-powered platform to proactively detect early signs of stress and burnout among uniformed personnel (CRPF, BSF, CISF, Army, etc.) and trigger timely welfare support — before crisis strikes.
 
@@ -12,7 +12,7 @@ Uniformed personnel face chronic occupational stress from long deployments, haza
 
 **PS ID:** 26186
 **Category:** Software
-**Theme:** Miscellaneous / Defence
+**Theme:** MedTech / BioTech / HealthTech
 
 ---
 
@@ -172,7 +172,7 @@ Every prediction includes a SHAP-based breakdown of the top contributing factors
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-org>/sentinel-sih26186.git
+git clone https://github.com/hellosufyan01/sentinel-sih26186.git
 cd sentinel-sih26186
 
 # Spin up local services (Postgres, Redis, InfluxDB)
@@ -227,7 +227,7 @@ JWT_SECRET=your_jwt_secret
 
 ## 📄 License
 
-This project was built for Smart India Hackathon 2024 (Problem Statement 26186). License TBD.
+This project was built for Smart India Hackathon 2026 (Problem Statement 26186). License TBD.
 
 ---
 
